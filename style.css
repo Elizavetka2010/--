@@ -5,14 +5,16 @@
         <img src="https://drive.google.com/uc?export=view&id=1RTG8_69yUtTyvYTb32FluvWER9gF__TR"width="40px" height="60px"/> <a href="#products"> Посмотреть нашу продукцию</a>
      </header>
      <main style="background-color:MistyRose">
-        <img src="https://drive.google.com/uc?export=view&id=1ObeiwWapG0OD3aye5KaPOkytA7Zqh0SE"height="100px"/ ><img src="https://drive.google.com/uc?export=view&id=1ObeiwWapG0OD3aye5KaPOkytA7Zqh0SE"height="100px"/ ><img src="https://drive.google.com/uc?export=view&id=1ObeiwWapG0OD3aye5KaPOkytA7Zqh0SE"height="100px"/ ><img src="https://drive.google.com/uc?export=view&id=1ObeiwWapG0OD3aye5KaPOkytA7Zqh0SE"height="100px"/ ><img src="https://drive.google.com/uc?export=view&id=1ObeiwWapG0OD3aye5KaPOkytA7Zqh0SE"height="100px"/ >
+        <img src="https://drive.google.com/uc?export=view&id=1ObeiwWapG0OD3aye5KaPOkytA7Zqh0SE"height="100px"/ ><img src="https://drive.google.com/uc?export=view&id=1ObeiwWapG0OD3aye5KaPOkytA7Zqh0SE"height="100px"/ ><img src="https://drive.google.com/uc?export=view&id=1ObeiwWapG0OD3aye5KaPOkytA7Zqh0SE"height="100px"/ ><img src="https://drive.google.com/uc?export=view&id=1ObeiwWapG0OD3aye5KaPOkytA7Zqh0SE"height="100px"/ >
         <h1 style="text-align:center; color:Indigo; font-size:50px">Кондитерская "На дому"</h1>
         <h2 style="text-align:center; font-size:40px">У нас самые вкусные пирожные</h2>
         <img src="https://drive.google.com/uc?export=view&id=10ampX6fIHpwk8yohZSCxIYrwcfF3uE-H"/>
         <h3 style="text-align:center"><i>Мы следим за качеством продуктов</i></h3>
-        <p style="text-align:center">Поэтому мы номер 1 в Санкт-Петербурге</p>
+        <p style="text-align:center">Поэтому мы номер 1 в Санкт-Петербурге</p> 
+        <img src="https://drive.google.com/uc?export=view&id=1GQa4axZAgD-ghQudUbx5EXjtjE_aNs8x"height="170px"/><img src="https://drive.google.com/uc?export=view&id=1ppQRL832shHx60RWj04qqdxMBqnkkhQt"height="170px"/>
         <h3 style="text-align:center"><i>Мы работаем с разными клиентами</i></h3> 
-        <p style="text-align:center">Оптом и в розницу</p>
+        <p style="text-align:center">У нас можно заказать торт на свадьбу, день рождения и на любое Ваше торжество!</p>
+       
         <h3 id="products" style="text-align:center"><i>Наша продукция</i></h3> 
         <table style="border:1px solid yellow; border-collapse:collapse; text-align:center;">
             <tr style="border:1px solid yellow;background-color:#FFFCBB">
@@ -42,12 +44,16 @@
             </tr>
       </table>   
     <p style="text-align:right">*Лизики - новая денежная единица</p>
+    <h3 style="text-align:center">Зона охвата</h3>
+    <p style="text-align:center">Ждём вас в СПб, в Москве, в Нижнем Новгороде, в Самаре... </p>
+    <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A4691a4b503c92616d1d8fe4a2b948a31cf614052b4d93f90dcf29b3dd7ba6f7c&amp;width=653&amp;height=490&amp;lang=ru_RU&amp;scroll=true"></script>
     </main>
      <footer style="background-color:LightPink">
          <a href="#start">В начало страницы</a>
          <p>Адрес: Туристская улица, 23к2 Санкт-Петербург, Россия</p>
          <p>Телефон: +7 (890) 1234-567</p>
-<a href="https://vk.com/algoritmikavk"> <img src="https://drive.google.com/uc?export=view&id=1zIVZ8-l5ouOV3RbFvgeo8aufl83eV0B8"height="30px"/></a>
+         <a href="https://vk.com/algoritmikavk"> <img src="https://drive.google.com/uc?export=view&id=1zIVZ8-l5ouOV3RbFvgeo8aufl83eV0B8"height="30px"/></a>
      </footer>
     </body>
 </html>
+
